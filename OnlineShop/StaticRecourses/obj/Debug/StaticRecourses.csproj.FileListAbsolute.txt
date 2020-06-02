@@ -1,0 +1,10 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\bin\Debug\StaticRecourses.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\bin\Debug\StaticRecourses.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\bin\Debug\en\StaticRecourses.resources.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.Resource.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.Resource.en.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\en\StaticRecourses.resources.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OnlineShop\StaticRecourses\obj\Debug\StaticRecourses.csprojResolveAssemblyReference.cache
